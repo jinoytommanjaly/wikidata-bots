@@ -1,4 +1,4 @@
 #!/bin/sh
-export CLASSPATH=/home/antonin/.bin/jython2.7.1/javalib/*
+export CLASSPATH=C:/jython2.7.1/javalib/*
 export TERM=abc
-/home/antonin/.bin/jython2.7.1/bin/jython wdtk.py "$@"
+/jython2.7.1/bin/jython wdtk.py "$@"
